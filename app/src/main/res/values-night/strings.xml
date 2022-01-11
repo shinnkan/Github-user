@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_hint">search user</string>
+    <string name="no_result">find nothing</string>
+    <string name="user_name">ユーザー名</string>
+    <string name="full_name">フルネーム</string>
+    <string name="followers">フォロワー数</string>
+    <string name="followings">フォロイー数</string>
+    <string name="language">開発言語:</string>
+</resources>
